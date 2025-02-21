@@ -1,0 +1,3 @@
+[submodule "Datasets & API Sources/public-apis"]
+	path = Datasets & API Sources/public-apis
+	url = https://github.com/public-apis/public-apis.git
